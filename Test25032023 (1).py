@@ -128,7 +128,7 @@ Let connections = [
     ('Dublin', 'Rome', 170),
     ]
     
-"""3
+"""
 
 # write your solution here for the above problem
 
